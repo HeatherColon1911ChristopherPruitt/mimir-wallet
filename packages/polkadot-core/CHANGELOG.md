@@ -822,3 +822,5 @@
 * The following workspace dependencies were updated
   * devDependencies
     * @mimir-wallet/service bumped to 1.25.0
+
+<!-- Auto-update: 2025-10-25T11:50:43.631971 -->
