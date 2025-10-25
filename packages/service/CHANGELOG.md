@@ -1,5 +1,31 @@
 # Changelog
 
+## [3.0.0](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/compare/service-v2.32.0...service-v3.0.0) (2025-10-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* implement omni-chain support with multi-network balances and transactions ([#198](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/198))
+
+### Features
+
+* add bounty manager dapp support for paseo chain ([#181](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/181)) ([f3c9241](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/f3c9241e649c6db21d11bac442d186149fd703ff))
+* Add cross-chain calldata display component ([#291](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/291)) ([1954436](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/1954436663c5c8df7efe9de057777b95311e9b58))
+* Add dry run API support for transaction simulation ([#207](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/207)) ([fe56dd0](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/fe56dd0032ac97f04d5720e5e1a192b9d2837e69))
+* Add notification center feature ([#282](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/282)) ([6c67161](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/6c671612ec8232d4338bdd5616562c54c95f2561))
+* Add proposer management for multisig members and enable propose transaction submission ([#171](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/171)) ([8809dea](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/8809deabde8a18b8e8c060e5d8392568d6fa9e00))
+* Add remote proxy support ([#236](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/236)) ([8997bfa](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/8997bfa89a40692b772f7026c3bfb80f586dd589))
+* add transaction subscription functionality ([#213](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/213)) ([c6c3374](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/c6c33743df208fba8f2b188df014b7b250c7c740))
+* Add zkVerify testnet supported ([#251](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/251)) ([fba90e5](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/fba90e5acb9b6e9ec16586d7c957717dc98cf58d))
+* implement omni-chain support with multi-network balances and transactions ([#198](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/198)) ([614d914](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/614d914140aa9941cc57bde977e7aeb8f36610c0))
+* Improve UI display and user experience ([#218](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/218)) ([a61e24d](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/a61e24d7e7b163265b23d1de9ae165b4fb182e13))
+* Optimize balance retrieval logic ([#311](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/311)) ([21479b1](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/21479b1da29aaf09846cb3cd3af0c1fb464ac640))
+* remove assethub next westend network ([#232](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/232)) ([753f8b8](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/753f8b8b4a9308fea34ac0fad89a8099308f50b1))
+* remove batch restore functionality ([#204](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/204)) ([b83939c](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/b83939c845f4a6293666efb492c616db6a616b0c))
+* subscribe wallet accounts changed ([#176](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/176)) ([2866321](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/2866321b31f8de94d07578e4ffe61530e73b7892))
+* **ui:** enhance transaction components and improve user experience ([#261](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/261)) ([5895471](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/5895471c604d1817733fb8850c172aee6f89d940))
+* **ui:** refactor create multisig UX with responsive design and step wizard ([#267](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/issues/267)) ([e11069f](https://github.com/HeatherColon1911ChristopherPruitt/mimir-wallet/commit/e11069f9b867f7012b7721be63ad6dceecc793a3))
+
 ## [2.32.0](https://github.com/mimir-labs/mimir-wallet/compare/service-v2.31.0...service-v2.32.0) (2025-10-14)
 
 
